@@ -3,6 +3,6 @@
     "left-pad": "1.0.0"
    },
    "renovate": {
-
+     "extends": [":disabledHost(registry.npmjs.org)"]
    }
 }
