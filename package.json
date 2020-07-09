@@ -3,5 +3,9 @@
     "left-pad": "1.0.0"
    },
    "renovate": {
+     "hostRules": [{
+       "hostName": "registry.npmjs.org",
+       "enabled": false
+     }]
    }
 }
